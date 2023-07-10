@@ -1,0 +1,5 @@
+C:\Users\MFK\source\repos\Crptology\Crptology\obj\Release\net6.0\Crptology.csproj.AssemblyReference.cache
+C:\Users\MFK\source\repos\Crptology\Crptology\obj\Release\net6.0\Crptology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MFK\source\repos\Crptology\Crptology\obj\Release\net6.0\Crptology.AssemblyInfoInputs.cache
+C:\Users\MFK\source\repos\Crptology\Crptology\obj\Release\net6.0\Crptology.AssemblyInfo.cs
+C:\Users\MFK\source\repos\Crptology\Crptology\obj\Release\net6.0\Crptology.csproj.CoreCompileInputs.cache

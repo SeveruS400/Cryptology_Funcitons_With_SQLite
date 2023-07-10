@@ -1,0 +1,64 @@
+C:\Users\MFK\source\repos\Crptology\Crptology\obj\Debug\net6.0\Crptology.csproj.AssemblyReference.cache
+C:\Users\MFK\source\repos\Crptology\Crptology\obj\Debug\net6.0\Crptology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MFK\source\repos\Crptology\Crptology\obj\Debug\net6.0\Crptology.AssemblyInfoInputs.cache
+C:\Users\MFK\source\repos\Crptology\Crptology\obj\Debug\net6.0\Crptology.AssemblyInfo.cs
+C:\Users\MFK\source\repos\Crptology\Crptology\obj\Debug\net6.0\Crptology.csproj.CoreCompileInputs.cache
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\Crptology.exe
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\Crptology.deps.json
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\Crptology.runtimeconfig.json
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\Crptology.dll
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\Crptology.pdb
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\DnsClient.dll
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\Snappier.dll
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\MFK\source\repos\Crptology\Crptology\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\MFK\source\repos\Crptology\Crptology\obj\Debug\net6.0\Crptology.csproj.CopyComplete
+C:\Users\MFK\source\repos\Crptology\Crptology\obj\Debug\net6.0\Crptology.dll
+C:\Users\MFK\source\repos\Crptology\Crptology\obj\Debug\net6.0\refint\Crptology.dll
+C:\Users\MFK\source\repos\Crptology\Crptology\obj\Debug\net6.0\Crptology.pdb
+C:\Users\MFK\source\repos\Crptology\Crptology\obj\Debug\net6.0\Crptology.genruntimeconfig.cache
+C:\Users\MFK\source\repos\Crptology\Crptology\obj\Debug\net6.0\ref\Crptology.dll
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\Crptology.exe
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\Crptology.deps.json
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\Crptology.runtimeconfig.json
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\Crptology.dll
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\Crptology.pdb
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\DnsClient.dll
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\Snappier.dll
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\obj\Debug\net6.0\Crptology.csproj.AssemblyReference.cache
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\obj\Debug\net6.0\Crptology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\obj\Debug\net6.0\Crptology.AssemblyInfoInputs.cache
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\obj\Debug\net6.0\Crptology.AssemblyInfo.cs
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\obj\Debug\net6.0\Crptology.csproj.CoreCompileInputs.cache
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\obj\Debug\net6.0\Crptology.csproj.CopyComplete
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\obj\Debug\net6.0\Crptology.dll
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\obj\Debug\net6.0\refint\Crptology.dll
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\obj\Debug\net6.0\Crptology.pdb
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\obj\Debug\net6.0\Crptology.genruntimeconfig.cache
+C:\Users\MFK\Desktop\Mahir Furkan KIR 18253028\Crptology\Crptology\obj\Debug\net6.0\ref\Crptology.dll

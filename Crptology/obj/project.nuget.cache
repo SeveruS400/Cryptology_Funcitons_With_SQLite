@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "V7/tAANBL7CebQVP4iYQfRT7ItQHV99bgrUmZbCkyhkqJ714sIzIUTjHrqivmx5S4U7oBcltwuP49JA0Ae0ITQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MFK\\Desktop\\Mahir Furkan KIR 18253028\\Crptology\\Crptology\\Crptology.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MFK\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\MFK\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\MFK\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\MFK\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\MFK\\.nuget\\packages\\mongodb.bson\\2.18.0\\mongodb.bson.2.18.0.nupkg.sha512",
+    "C:\\Users\\MFK\\.nuget\\packages\\mongodb.driver.core\\2.18.0\\mongodb.driver.core.2.18.0.nupkg.sha512",
+    "C:\\Users\\MFK\\.nuget\\packages\\mongodb.libmongocrypt\\1.6.0\\mongodb.libmongocrypt.1.6.0.nupkg.sha512",
+    "C:\\Users\\MFK\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\MFK\\.nuget\\packages\\snappier\\1.0.0\\snappier.1.0.0.nupkg.sha512",
+    "C:\\Users\\MFK\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.116\\stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
+    "C:\\Users\\MFK\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\MFK\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512",
+    "C:\\Users\\MFK\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\MFK\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\MFK\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\MFK\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
